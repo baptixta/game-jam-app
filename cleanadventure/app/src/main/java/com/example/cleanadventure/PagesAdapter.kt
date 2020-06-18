@@ -26,7 +26,7 @@ class PagesAdapter(fm : FragmentManager) : FragmentStatePagerAdapter(fm) {
     override fun getPageTitle(position: Int): CharSequence? {
         return when (position) {
             0 -> "Login"
-            1 -> "Game"
+            1 -> "Updates"
             2 -> "Social"
             else -> "Info"
         }

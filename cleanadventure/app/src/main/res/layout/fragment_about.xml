@@ -75,7 +75,7 @@
                         android:text="Salvar"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:id="@+id/btnSalvar" android:textSize="12sp"
+                        android:id="@+id/btnSalvar2" android:textSize="12sp"
                         app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="8dp"
                         android:layout_marginRight="8dp" android:layout_marginBottom="8dp"
                         app:layout_constraintBottom_toBottomOf="parent"
@@ -85,7 +85,7 @@
                         android:layout_height="54dp"
                         android:inputType="date"
                         android:ems="10"
-                        android:id="@+id/editText2"
+                        android:id="@+id/txtDataNascimento"
                         app:layout_constraintTop_toTopOf="@+id/textView5"
                         app:layout_constraintBottom_toBottomOf="@+id/textView5"
                         app:layout_constraintEnd_toEndOf="parent"
@@ -102,7 +102,7 @@
                     <com.google.android.material.textfield.TextInputEditText
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:textColor="#f1f1f1"/>
+                            android:textColor="#f1f1f1" android:id="@+id/txtPais"/>
                 </com.google.android.material.textfield.TextInputLayout>
                 <com.google.android.material.textfield.TextInputLayout
                         android:layout_width="140dp"
@@ -116,14 +116,14 @@
                     <com.google.android.material.textfield.TextInputEditText
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:textColor="#f1f1f1"/>
+                            android:textColor="#f1f1f1" android:id="@+id/txtNomeUsuario"/>
                 </com.google.android.material.textfield.TextInputLayout>
                 <EditText
                         android:layout_width="140dp"
                         android:layout_height="wrap_content"
                         android:inputType="textEmailAddress"
                         android:ems="10"
-                        android:id="@+id/editText3"
+                        android:id="@+id/txtEmail"
                         app:layout_constraintTop_toTopOf="@+id/textView7"
                         app:layout_constraintBottom_toBottomOf="@+id/textView7"
                         app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="8dp"
