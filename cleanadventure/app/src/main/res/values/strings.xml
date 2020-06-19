@@ -3,4 +3,37 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_person_name">Fulano de Tal</string>
+    <string name="text_basic_information">Informações Básicas</string>
+    <string name="text_country_or_region">País ou Região</string>
+    <string name="text_birth_date">Data de Nascimento</string>
+    <string name="text_username_about">Nome de Usuário</string>
+    <string name="text_email_adress">Endereço de Email</string>
+    <string name="button_save_about">Salvar</string>
+    <string name="text_login">LOGIN</string>
+    <string name="button_entrar">ENTRAR</string>
+    <string name="text_social_settings">Configurações Sociais</string>
+    <string name="text_social_description">Deseja exibir publicamente seu perfil do Clean Adventure? Isso inclui
+        conteúdo, como a sua imagem de perfil, o seu nome de usuário e as suas estatísticas de jogo. Informações
+        pessoais, como seu nome real, são sempre privadas.
+    </string>
+    <string name="text_yes_checkbox">Sim</string>
+    <string name="text_no_checkbox">Não</string>
+    <string name="text_name_social">Nome</string>
+    <string name="text_last_name_social">Sobrenome</string>
+    <string name="text_username_social">Nome de Usuário</string>
+    <string name="text_marketing_rights">Eu gostaria de receber comunicações de marketing, incluindo mensagens de e-mail
+        com as mais recentes notícias, ofertas, promoções, eventos, jogos e outras maneiras de receber comunicações de
+        marketing da Clean Adventure.
+    </string>
+    <string name="button_save_social">Salvar</string>
+    <string name="text_updates">Updates</string>
+    <string name="text_version_three">Versão 0.3</string>
+    <string name="text_version_three_description">Novos inimigos! Mate todos o mais rápido possível. 3 vírus
+        diferentes.
+    </string>
+    <string name="text_version_two">Versão 0.2</string>
+    <string name="text_version_two_description">Novo cenário! Descubra os segredos da cidade. 2 vezes maior.</string>
+    <string name="text_version_one">Versão 0.1</string>
+    <string name="text_version_one_description">Personagem novo! Se divirta com ele. Muito mais colorido.</string>
 </resources>
